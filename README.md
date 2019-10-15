@@ -52,3 +52,4 @@ To run your own copy of the skill you can follow the directions in this [Alexa P
 * GetPriceIntent fetch me prices
 * GetPriceIntent fetch me the price of {cryptocurrency}
 * GetPriceIntent fetch me the price of {cryptocurrency} in {fiat_currency}
+|cool|
